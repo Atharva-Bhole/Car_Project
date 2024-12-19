@@ -18,3 +18,6 @@ https://youtu.be/V_xro1bcAuA?si=XMvMIkceweoV17Sd
 5. Neural Networks course for cars in JS
    https://youtu.be/Rs_rAxEsAvI?si=D3fwZTdJPzRcbJvO
    
+# How to download and work with airsim simulator of car 
+### Details provided on the site
+https://microsoft.github.io/AirSim/build_windows/
