@@ -1,3 +1,4 @@
+# NOTE The tasks to develop these models in very easy but to implement a pipeline working on all these is very difficult so clear ur basics and study hard on PyTorch and Deep Learning
 # Car_Project
 Self Driving Car using Deep Learning Algorithms
 
@@ -31,6 +32,8 @@ https://microsoft.github.io/AirSim/build_windows/
 
 - ## Run the following command in terminal to install pytorch
 -  ` pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 `
+
+
 
 
 - tasks to be done
