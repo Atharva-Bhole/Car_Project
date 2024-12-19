@@ -15,5 +15,6 @@ https://youtu.be/V_xro1bcAuA?si=XMvMIkceweoV17Sd
 4. Perception for self-driving cars freecodecamp
    https://youtu.be/cPOtULagNnI?si=Ax1gU8fBt4eY4ROi
 
+5. Neural Networks course for cars in JS
+   https://youtu.be/Rs_rAxEsAvI?si=D3fwZTdJPzRcbJvO
    
-
